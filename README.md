@@ -7,7 +7,7 @@
 Udacity test
 
 ### Description
-Describe what your project is about and what it does
+Updated description
 
 ### Files used
 Include the files used
